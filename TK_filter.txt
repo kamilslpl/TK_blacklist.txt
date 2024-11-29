@@ -17,7 +17,6 @@
 ||rr5.sn-f5f7kn7e.googlevideo.com^
 ||rr5---sn-f5f7kn7e.googlevideo.com^
 ||rr5.sn-f5f7lnld.googlevideo.com^
-||www.googleadservices.com^
 ||rr4.sn-f5f7knee.googlevideo.com^
 ||rr4---sn-f5f7knee.googlevideo.com^
 ||rr1.sn-f5f7kn7e.googlevideo.com^
